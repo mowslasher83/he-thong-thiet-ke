@@ -1,0 +1,15 @@
+{
+  "name": "he-thong-thiet-ke",
+  "version": "1.0.0",
+  "description": "Một hệ thống thiết kế UI cho các ứng dụng và trang web tại Việt Nam.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/he-thong-thiet-ke.git"
+  },
+  "keywords": ["design-system", "ui", "components", "vietnam"],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
