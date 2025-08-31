@@ -1,4 +1,4 @@
-export { default as Button } from './components/Button';
-export { default as Input } from './components/Input';
-export { default as Modal } from './components/Modal';
-export { default as Notification } from './components/Notification';
+export { Button } from './components/Button';
+export { Input } from './components/Input';
+export { Modal } from './components/Modal';
+export { Notification } from './components/Notification';
